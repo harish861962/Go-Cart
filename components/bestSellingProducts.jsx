@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
-import Productsheader from "./Productsheader";
+import Productsheader from "./productsheader";
+
 // import Productsheader from "Gocart\gocart\components\Productsheader.jsx";
 
 import { useNavigate } from "react-router-dom";
