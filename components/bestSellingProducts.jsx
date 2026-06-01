@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Productsheader from "./Productsheader";
+import Productsheader from "./ProductsHeader";
 import { useNavigate } from "react-router-dom";
 import slugify from 'slugify';
 
