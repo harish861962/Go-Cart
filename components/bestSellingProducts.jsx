@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Productsheader from "./productsheader";
+import Productsheader from "./Productsheader";
 
 // import Productsheader from "Gocart\gocart\components\Productsheader.jsx";
 
