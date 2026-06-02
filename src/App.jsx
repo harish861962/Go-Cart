@@ -1,12 +1,12 @@
 import { useState } from 'react'
-import Navbar from '../components/navbar'
-import Hero from '../components/hero'
-import LatestProducts from '../components/latestProducts'
-import BestSellingProducts from '../components/bestSellingProducts'
-import Productsdetails from '../components/productsdetails'
-import Services from '../components/services'
-import Newsletter from '../components/newsletter'
-import Footer from '../components/footer'
+import Hero from '../components/Hero'
+import LatestProducts from "./components/LatestProducts";
+import BestSellingProducts from "./components/BestSellingProducts";
+import Navbar from "./components/Navbar";
+import Productsdetails from '../components/ProductsDetails'
+import Services from '../components/Services'
+import Newsletter from '../components/NewsLetter'
+import Footer from '../components/Footer'
 import Login from '../pages/login'
 
 

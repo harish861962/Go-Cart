@@ -109,8 +109,8 @@
 
 import React from "react";
 import { useCart } from "react-use-cart";
-import Navbar from "../components/navbar";
-import Footer from "../components/footer";
+import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
 import { toast } from "react-toastify";
 
 export default function Cart() {

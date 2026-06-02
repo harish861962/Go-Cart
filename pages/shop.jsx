@@ -1,8 +1,8 @@
 import React from "react";
-import LatestProducts from "../components/latestProducts";
-import BestSellingProducts from "../components/bestSellingProducts";
-import Navbar from "../components/navbar";
-import Footer from "../components/footer";
+import LatestProducts from "../components/LatestProducts";
+import BestSellingProducts from "../components/BestSellingProducts";
+import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
 
 export default function Shop(){
 return(
